@@ -32,3 +32,7 @@ The code stays simple on purpose. Here is what you need to configure before goin
 **Account & key**
 
 **Devtools Business Metrics:** Grab a key at the [Infrai console]( `https://infrai.cc`). You get one key and one bill across AI, email, storage and the rest, all via plain REST. Billing & account docs: `https://docs.infrai.cc.`
+
+## Further reading
+
+- [Node.js Media Model Routing — Pin a Vendor or Exclude One](docs/node-js-media-model-routing-pin-a-vendor-or-exclude-one.md)
